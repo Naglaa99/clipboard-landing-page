@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:
+- Live Site URL:  https://naglaa99.github.io/clipboard-landing-page/
 
 ## My process
 
