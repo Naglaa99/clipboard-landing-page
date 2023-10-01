@@ -194,6 +194,7 @@ section img {
     margin-bottom: 30px;
   }
   .col h3 {
+    padding-right: 5px;
     font-size: 20px;
     margin: 0;
   }
